@@ -1,0 +1,194 @@
+{
+    "GENERAL": {
+        "MAIN": {
+            "NAME": "Denis Karandashev",
+            "PROFESSION": "Software Developer / Frontend Developer",
+            "CONTACTS": {
+                "EMAIL": "denis.karandashev@gmail.com",
+                "PHONE": "306893225172",
+                "ADDRESS": "Thessaloniki, Greece"
+            }
+        },
+        "SECTION": {
+            "SUMMARY": {
+                "TITLE": "About me",
+                "TAB": {
+                    "0": {
+                        "LABEL": "Contacts",
+                        "SUB_LABEL_1": "You can contact me using the following methods:",
+                        "SUB_LABEL_2": "Social Networks"
+                    },
+                    "1": {
+                        "LABEL": "Summary",
+                        "TEXT": "<p>Detail-oriented, organized employee who works at a fast pace to meet tight deadlines and contribute to the company's success.</p><p>Commenced a career in programming in 2020 at Deutsche Telekom, where employment continues to this day. Initially primarily involved in backend development, interests gradually shifted towards frontend development.</p><p>Citizen of Russia with residency status in Greece. Contemplating relocation to Canada.</p>"
+                    },
+                    "2": {
+                        "LABEL": "Biography",
+                        "TEXT": "<p>I was born and raised in Russia, but since 2022, I have been living in Greece. I hold Russian citizenship, as well as residence and work permits in Greece.</p><p>I earned bachelor's and master's degrees in law. I began my professional career as a lawyer, holding various positions such as lead legal counsel, chief legal officer, deputy head of the legal department, and also engaged in private practice.</p><p>In 2020, I underwent retraining and started working as a programmer in companies under the Deutsche Telekom brand.</p>"
+                    }
+                }
+            },
+            "SKILLS": {
+                "TITLE": "Skills",
+                "SOFT_LABEL": "Soft skills",
+                "HARD_LABEL": "Hard skills",
+                "ADDITIONAL": " * Preselected skills seem to be the most important to me.",
+                "BE_LABEL": "Backend",
+                "FE_LABEL": "Frontend",
+                "TOOLS_LABEL": "Tools ans services",
+                "SOFT_HTML": "<p><b>Persistence and Continuous Learning:</b> I am constantly striving for self-improvement and learning new technologies to stay updated on the latest trends in the programming world. My commitment to continuous learning enables me to effectively solve tasks and make valuable contributions to projects.</p><p><b>Precision and Attention to Detail:</b> I possess keen attention to detail, allowing me to write clean and efficient code without making errors. My precision helps ensure high-quality software and minimize potential issues during development.</p><p><b>Independence and Accountability:</b> Thanks to my independence and accountability, I am capable of working effectively on projects both independently and as part of a team. My drive for self-improvement enables me to quickly adapt to new tasks and project requirements.</p><p><b>Effective Problem-Solving:</b> I have strong analytical and problem-solving skills, enabling me to quickly and efficiently find optimal solutions even in the most challenging situations. My ability to independently learn new technologies allows me to adapt quickly to new tasks and project requirements.</p><p><b>Efficient Time Management:</b> I am skilled in managing my time effectively, enabling me to organize my work efficiently and meet deadlines. My ability to plan and prioritize tasks effectively helps me to be productive and achieve high results in my work.</p><p><b>Languages:</b> Russian (Native), English (B2), French (A1).</p>"
+            },
+            "WORK_HISTORY": {
+                "TITLE": "Work History",
+                "PROJECT_NAME_LABEL": "Project name",
+                "MAIN_DUTIES_LABEL": "Main duties",
+                "MAIN_TECH_LABEL": "Main technologies",
+                "FE_LABEL": "Frontend",
+                "BE_LABEL": "Backend",
+                "PROJECTS": {
+                    "1": {
+                        "POSITION": "Java Developer (trainee)",
+                        "COMPANY": "EPAM Systems",
+                        "LOCATION": "Saint Petersburg, Russia",
+                        "PERIOD_START": "March 2020",
+                        "PERIOD_END": "September 2020",
+                        "ADDITIONAL": "part-time, unpaid work",
+                        "PROJECT": {
+                            "NAME": "Training centre EPAM",
+                            "DESCRIPTION": "Working on internal projects."
+                        },
+                        "MAIN_DUTIES": {
+                            "1": "Creating a notebook web application from scratch.",
+                            "2": "Developing a project for renting parking spaces from scratch."
+                        },
+                        "MAIN_TECH": {
+                            "FE": "Freemarker, Thymeleaf, Bootstrap, Materialize.",
+                            "BE": "Java 7, Spring MVC, MySQL, PostgreSQL."
+                        }
+                    },
+                    "2": {
+                        "POSITION": "Junior Software Developer",
+                        "COMPANY": "Deutsche Telekom IT RUS",
+                        "LOCATION": "Saint Petersburg, Russia",
+                        "PERIOD_START": "September 2020",
+                        "PERIOD_END": "March 2021",
+                        "ADDITIONAL": "full time, paid work",
+                        "PROJECT": {
+                            "NAME": "T-Vacations, T-Plan",
+                            "DESCRIPTION": "T-Vacations helps company employees in interacting with the HR department and managers on a number of issues related to taking vacations, paying for sports activities, as well as maintaining timesheets, notifications and reminders for responsible employees. The purpose of T-Plan is to improve efficiency of work with financial prognoses and reports at T-Systems RUS."
+                        },
+                        "MAIN_DUTIES": {
+                            "1": "Developing new/rewriting existing features (web services) on backend and on frontend."
+                        },
+                        "MAIN_TECH": {
+                            "FE": "JavaScript, HTML, CSS, Thymeleaf (T-Vacations), React (T-Plan).",
+                            "BE": "Java 8, Spring Boot, PostgreSQL 11."
+                        }
+                    },
+                    "3": {
+                        "POSITION": "Software Engineer (Frontend / Full stack)",
+                        "COMPANY": "T-Systems Rus",
+                        "LOCATION": "Saint Petersburg, Russia",
+                        "PERIOD_START": "March 2021",
+                        "PERIOD_END": "December 2022",
+                        "ADDITIONAL": "full time, paid work",
+                        "PROJECT": {
+                            "NAME": "UIS",
+                            "DESCRIPTION": "Developing UIS (Umwelt-Informations-System, or Environmental Information System). UIS is a system for recording environmental information for a well-known international automobile concern."
+                        },
+                        "MAIN_DUTIES": {
+                            "1": "Participating in the development of solutions for implementing complex business logic within the application and its components (such as multi-level questionnaires, reports, managing them at various levels, and administering these processes).",
+                            "2": "Developing user interfaces (from design development to implementation).",
+                            "3": "Participating in the development of the backend (writing the necessary endpoints, service logic, database queries, creating or editing entities, database migrations).",
+                            "4": "Writing tasks in Jira, writing documentation in Confluence."
+                        },
+                        "MAIN_TECH": {
+                            "FE": "Angular 9-13 (HTML, CSS,, Typescript), PrimeNG, Angular Material.",
+                            "BE": "Spring, Java 11, Oracle DB."
+                        }
+                    },
+                    "4": {
+                        "POSITION": "Software Engineer (Frontend / Full stack)",
+                        "COMPANY": "Deutsche Telekom Cloud Services",
+                        "LOCATION": "Thessaloniki, Greece",
+                        "PERIOD_START": "January 2023",
+                        "PERIOD_END": "Present",
+                        "ADDITIONAL": "full time, paid work",
+                        "PROJECT": {
+                            "NAME": "AFAB",
+                            "DESCRIPTION": "AFAB (Applications for automotive business), the customer is an international automobile concern. These apps provide order management for commercial vehicles, used in all parts of the world where trucks and buses of this concern can be ordered."
+                        },
+                        "MAIN_DUTIES": {
+                            "1": "Developing complex multi-level user interfaces for creating, modifying, and managing orders.",
+                            "2": "Modifying existing interfaces according to customer requirements.",
+                            "3": "Bug fixing, working closely with testers and other developers.",
+                            "4": "Assisting novice developers (code review, assistance in solving complex problems)."
+                        },
+                        "MAIN_TECH": {
+                            "FE": "Angular 13, TypeScript, CSS, HTML",
+                            "BE": "Java 17"
+                        }
+                    }
+                }
+            },
+            "PREVIOUS_EMPLOYMENT": {
+                "TITLE": "Previous Employment"
+            },
+            "EDUCATION": {
+                "TITLE": "Education",
+                "COURSES": {
+                    "0": {
+                        "TITLE": "HTML, CSS, and Javascript for Web Developers",
+                        "INST": "Johns Hopkins University"
+                    },
+                    "1": {
+                        "TITLE": "Client Needs and Software Requirements",
+                        "INST": "University of Alberta"
+                    },
+                    "2": {
+                        "TITLE": "React Basics",
+                        "INST": "Meta"
+                    },
+                    "3": {
+                        "TITLE": "Advanced React",
+                        "INST": "Meta"
+                    },
+                    "4": {
+                        "TITLE": "Principles of UX/UI Design",
+                        "INST": "Meta"
+                    },
+                    "5": {
+                        "TITLE": "Angular 2023Q4",
+                        "INST": "RS School"
+                    },
+                    "6": {
+                        "TITLE": "Web development basics",
+                        "INST": "Kursk State University"
+                    },
+                    "7": {
+                        "TITLE": "Modern technologies for the development and design of graphical applications",
+                        "INST": "Yaroslavl State University"
+                    },
+                    "8": {
+                        "TITLE": "Java Developer Programm",
+                        "INST": "GeekBrains"
+                    },
+                    "9": {
+                        "TITLE": "Master’s Degree in Business Law",
+                        "INST": "Saint Petersburg State University"
+                    }
+                }
+            },
+            "LANGUAGES": {
+                "TITLE": "Languages"
+            }
+        }
+    },
+    "BTN": {
+        "DOWNLOAD": "DOWNLOAD"
+    },
+    "SNACK_BAR": {
+        "COPY": "Copied to clipboard",
+        "CLOSE": "Close"
+    }
+}

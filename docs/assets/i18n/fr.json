@@ -1,0 +1,194 @@
+{
+    "GENERAL": {
+        "MAIN": {
+            "NAME": "Denis Karandashev",
+            "PROFESSION": "Développeur de logiciels / Développeur Frontend",
+            "CONTACTS": {
+                "EMAIL": "denis.karandashev@gmail.com",
+                "PHONE": "306893225172",
+                "ADDRESS": "Thessalonique, Grèce"
+            }
+        },
+        "SECTION": {
+            "SUMMARY": {
+                "TITLE": "À propos de moi",
+                "TAB": {
+                    "0": {
+                        "LABEL": "Coordonnées",
+                        "SUB_LABEL_1": "Vous pouvez me contacter de la manière suivante :",
+                        "SUB_LABEL_2": "Réseaux sociaux"
+                    },
+                    "1": {
+                        "LABEL": "Résumé",
+                        "TEXT": "<p>Employé organisé, axé sur les détails, qui travaille à un rythme rapide pour respecter des délais serrés et contribuer au succès de l'entreprise.</p><p>Commencé une carrière en programmation en 2020 chez Deutsche Telekom, où l'emploi se poursuit jusqu'à ce jour. Initialement principalement impliqué dans le développement backend, les intérêts se sont progressivement tournés vers le développement frontend.</p><p>Citoyen de Russie avec un statut de résident en Grèce. Envisageant un déménagement au Canada.</p>"
+                    },
+                    "2": {
+                        "LABEL": "Biographie",
+                        "TEXT": "<p>Je suis né et j'ai grandi en Russie, mais depuis 2022, je vis en Grèce. Je possède la citoyenneté russe, ainsi que des permis de résidence et de travail en Grèce.</p><p>J'ai obtenu un diplôme de baccalauréat et de maîtrise en droit. J'ai commencé ma carrière professionnelle en tant qu'avocat, occupant divers postes tels que conseiller juridique principal, responsable juridique en chef, adjoint du chef du département juridique, et j'ai également exercé en tant que praticien privé.</p><p>En 2020, j'ai suivi une reconversion et j'ai commencé à travailler en tant que programmeur dans des entreprises sous la marque Deutsche Telekom.</p>"
+                    }
+                }
+            },
+            "SKILLS": {
+                "TITLE": "Compétences",
+                "SOFT_LABEL": "Compétences générales",
+                "HARD_LABEL": "Compétences techniques",
+                "ADDITIONAL": " * Les compétences présélectionnées semblent être les plus importantes pour moi.",
+                "BE_LABEL": "Backend",
+                "FE_LABEL": "Frontend",
+                "TOOLS_LABEL": "Outils et services",
+                "SOFT_HTML": "<p><b>Persistance et Apprentissage Continu :</b> Je m'efforce constamment de m'améliorer et d'apprendre de nouvelles technologies pour rester à jour sur les dernières tendances dans le monde de la programmation. Mon engagement envers l'apprentissage continu me permet de résoudre efficacement les tâches et de contribuer de manière précieuse aux projets.</p><p><b>Précision et Attention aux Détails :</b> Je possède une grande attention aux détails, ce qui me permet d'écrire un code propre et efficace sans faire d'erreurs. Ma précision contribue à garantir un logiciel de haute qualité et à minimiser les problèmes potentiels lors du développement.</p><p><b>Indépendance et Responsabilité :</b> Grâce à mon indépendance et à ma responsabilité, je suis capable de travailler efficacement sur des projets aussi bien de manière indépendante qu'en équipe. Mon désir d'amélioration personnelle me permet de m'adapter rapidement à de nouvelles tâches et exigences de projet.</p><p><b>Résolution de Problèmes Efficace :</b> Je possède de solides compétences analytiques et de résolution de problèmes, ce qui me permet de trouver rapidement et efficacement des solutions optimales même dans les situations les plus difficiles. Ma capacité à apprendre de manière autonome de nouvelles technologies me permet de m'adapter rapidement aux nouvelles tâches et exigences de projet.</p><p><b>Gestion Efficace du Temps :</b> Je suis doué pour gérer mon temps efficacement, ce qui me permet d'organiser mon travail de manière efficiente et de respecter les délais. Ma capacité à planifier et à hiérarchiser les tâches efficacement m'aide à être productif et à obtenir de bons résultats dans mon travail.</p><p><b>Langues :</b> Russe (Langue Maternelle), Anglais (B2), Français (A1).</p>"
+            },
+            "WORK_HISTORY": {
+                "TITLE": "Historique Professionnel",
+                "PROJECT_NAME_LABEL": "Nom du projet",
+                "MAIN_DUTIES_LABEL": "Tâches principales",
+                "MAIN_TECH_LABEL": "Principales technologies",
+                "FE_LABEL": "Frontend",
+                "BE_LABEL": "Backend",
+                "PROJECTS": {
+                    "1": {
+                        "POSITION": "Développeur Java (stagiaire)",
+                        "COMPANY": "EPAM Systems",
+                        "LOCATION": "Saint-Pétersbourg, Russie",
+                        "PERIOD_START": "Mars 2020",
+                        "PERIOD_END": "Septembre 2020",
+                        "ADDITIONAL": "temps partiel, travail non rémunéré",
+                        "PROJECT": {
+                            "NAME": "Centre de formation EPAM",
+                            "DESCRIPTION": "Travailler sur des projets internes."
+                        },
+                        "MAIN_DUTIES": {
+                            "1": "Créer une application Web bloc-notes à partir de zéro.",
+                            "2": "Développer un projet de location de places de parking à partir de zéro."
+                        },
+                        "MAIN_TECH": {
+                            "FE": "Freemarker, Thymeleaf, Bootstrap, Materialize.",
+                            "BE": "Java 7, Spring MVC, MySQL, PostgreSQL."
+                        }
+                    },
+                    "2": {
+                        "POSITION": "Développeur Logiciel Junior",
+                        "COMPANY": "Deutsche Telekom IT RUS",
+                        "LOCATION": "Saint-Pétersbourg, Russie",
+                        "PERIOD_START": "Septembre 2020",
+                        "PERIOD_END": "Mars 2021",
+                        "ADDITIONAL": "travail rémunéré à temps plein",
+                        "PROJECT": {
+                            "NAME": "T-Vacations, T-Plan",
+                            "DESCRIPTION": "T-Vacations aide les employés de l'entreprise à interagir avec le service des ressources humaines et les gestionnaires sur un certain nombre de questions liées à la prise de vacances, au paiement des activités sportives, ainsi qu'à la gestion des feuilles de temps, des notifications et des rappels pour les employés responsables. Le but de T-Plan est d'améliorer l'efficacité du travail avec des pronostics financiers et des rapports chez T-Systems RUS."
+                        },
+                        "MAIN_DUTIES": {
+                            "1": "Développer de nouvelles fonctionnalités / réécrire des fonctionnalités existantes (services web) en backend et en frontend."
+                        },
+                        "MAIN_TECH": {
+                            "FE": "JavaScript, HTML, CSS, Thymeleaf (T-Vacations), React (T-Plan).",
+                            "BE": "Java 8, Spring Boot, PostgreSQL 11."
+                        }
+                    },
+                    "3": {
+                        "POSITION": "Ingénieur logiciel (Frontend / Full stack )",
+                        "COMPANY": "T-Systems Rus",
+                        "LOCATION": "Saint-Pétersbourg, Russie",
+                        "PERIOD_START": "Mars 2021",
+                        "PERIOD_END": "Décembre 2022",
+                        "ADDITIONAL": "travail rémunéré à temps plein",
+                        "PROJECT": {
+                            "NAME": "UIS",
+                            "DESCRIPTION": "Développement de UIS (Umwelt-Informations-System, ou Système d'Information sur l'Environnement). UIS est un système d'enregistrement d'informations environnementales pour une entreprise automobile internationale bien connue."
+                        },
+                        "MAIN_DUTIES": {
+                            "1": "Participation au développement de solutions pour mettre en œuvre une logique métier complexe au sein de l'application et de ses composants (telles que des questionnaires à plusieurs niveaux, des rapports, leur gestion à différents niveaux et l'administration de ces processus).",
+                            "2": "Développement des interfaces utilisateur (de la conception au déploiement).",
+                            "3": "Participation au développement du backend (rédaction des points d'extrémité nécessaires, logique de service, requêtes de base de données, création ou modification d'entités, migrations de base de données).",
+                            "4": "Rédaction de tâches dans Jira, rédaction de documentation dans Confluence."
+                        },
+                        "MAIN_TECH": {
+                            "FE": "Angular 9-13 (HTML, CSS,, Typescript), PrimeNG, Angular Material.",
+                            "BE": "Spring, Java 11, Oracle DB."
+                        }
+                    },
+                    "4": {
+                        "POSITION": "Ingénieur logiciel (Frontend / Full stack )",
+                        "COMPANY": "Deutsche Telekom Cloud Services",
+                        "LOCATION": "Thessalonique, Grèce",
+                        "PERIOD_START": "Janvier 2023",
+                        "PERIOD_END": "Présent",
+                        "ADDITIONAL": "travail rémunéré à temps plein",
+                        "PROJECT": {
+                            "NAME": "AFAB",
+                            "DESCRIPTION": "AFAB (Applications for automotive business), le client est une entreprise automobile internationale. Ces applications permettent de gérer les commandes de véhicules utilitaires, utilisées dans toutes les régions du monde où des camions et des bus de cette préoccupation peuvent être commandés."
+                        },
+                        "MAIN_DUTIES": {
+                            "1": "Développement d'interfaces utilisateur complexes à plusieurs niveaux pour la création, la modification et la gestion des commandes.",
+                            "2": "Modification des interfaces existantes selon les exigences du client.",
+                            "3": "Correction des bogues, travail étroit avec les testeurs et les autres développeurs.",
+                            "4": "Assistance aux développeurs débutants (révision de code, aide à résoudre des problèmes complexes)."
+                        },
+                        "MAIN_TECH": {
+                            "FE": "Angular 13, TypeScript, CSS, HTML",
+                            "BE": "Java 17"
+                        }
+                    }
+                }
+            },
+            "PREVIOUS_EMPLOYMENT": {
+                "TITLE": "Emploi Antérieur"
+            },
+            "EDUCATION": {
+                "TITLE": "Éducation",
+                "COURSES": {
+                    "0": {
+                        "TITLE": "HTML, CSS et Javascript pour les développeurs Web",
+                        "INST": "Université Johns Hopkins"
+                    },
+                    "1": {
+                        "TITLE": "Besoins des Clients et Exigences Logicielles",
+                        "INST": "Université de l'Alberta"
+                    },
+                    "2": {
+                        "TITLE": "Principes de base de React.js",
+                        "INST": "Meta"
+                    },
+                    "3": {
+                        "TITLE": "Technologie avancée de React.js",
+                        "INST": "Meta"
+                    },
+                    "4": {
+                        "TITLE": "Principes de conception UX/UI",
+                        "INST": "Meta"
+                    },
+                    "5": {
+                        "TITLE": "Angular 2023Q4",
+                        "INST": "RS School"
+                    },
+                    "6": {
+                        "TITLE": "Bases du développement web",
+                        "INST": "Université d'État de Koursk"
+                    },
+                    "7": {
+                        "TITLE": "Technologies modernes pour le développement et la conception d'applications graphiques",
+                        "INST": "Université d'État de Yaroslavl"
+                    },
+                    "8": {
+                        "TITLE": "Programme de Développement: Java",
+                        "INST": "GeekBrains"
+                    },
+                    "9": {
+                        "TITLE": "Maîtrise en Droit des Affaires",
+                        "INST": "Université d'État de Saint-Pétersbourg"
+                    }
+                }
+            },
+            "LANGUAGES": {
+                "TITLE": "Langues"
+            }
+        }
+    },
+    "BTN": {
+        "DOWNLOAD": "TÉLÉCHARGER"
+    },
+    "SNACK_BAR": {
+        "COPY": "Copié dans le presse-papiers",
+        "CLOSE": "Fermer"
+    }
+}
