@@ -103,7 +103,7 @@
                             "4": "Rédaction de tâches dans Jira, rédaction de documentation dans Confluence."
                         },
                         "MAIN_TECH": {
-                            "FE": "Angular 9-13 (HTML, CSS, Typescript), PrimeNG, Angular Material.",
+                            "FE": "Angular 9-13 (HTML, CSS,, Typescript), PrimeNG, Angular Material.",
                             "BE": "Spring, Java 11, Oracle DB."
                         }
                     },

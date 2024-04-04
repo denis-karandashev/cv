@@ -103,7 +103,7 @@
                             "4": "Γράψιμο εργασιών στο Jira, γράψιμο τεκμηρίωσης στο Confluence."
                         },
                         "MAIN_TECH": {
-                            "FE": "Angular 9-13 (HTML, CSS, TypeScript), PrimeNG, Angular Material.",
+                            "FE": "Angular 9-13 (HTML, CSS,, TypeScript), PrimeNG, Angular Material.",
                             "BE": "Spring, Java 11, Oracle DB."
                         }
                     },
