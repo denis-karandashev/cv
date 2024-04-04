@@ -190,10 +190,5 @@
     "SNACK_BAR": {
         "COPY": "Copié dans le presse-papiers",
         "CLOSE": "Fermer"
-    },
-    "POPUP": {
-        "DOWNLOAD_CV": {
-            "QUESTION": "Vous allez télécharger mon court CV. Veuillez noter que le CV n'est actuellement disponible qu'en anglais."
-        }
     }
 }

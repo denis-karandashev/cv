@@ -190,10 +190,5 @@
     "SNACK_BAR": {
         "COPY": "Copied to clipboard",
         "CLOSE": "Close"
-    },
-    "POPUP": {
-        "DOWNLOAD_CV": {
-            "QUESTION": "You are going to download my brief CV. Please note that the CV is currently available only in English."
-        }
     }
 }
